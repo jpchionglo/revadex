@@ -1,0 +1,33 @@
+
+HDomainService.Storing.Repositories.DomainServiceRepository.GetAllStars()¶
+õ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs: :(&"0*é
+
+0‹
+Ÿ
+¶
+õ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs< <(2
+%0,DomainService.Storing.DomainServiceDBContext"__id*t*r<
+:DomainService.Storing.Repositories.DomainServiceRepository"2
+db,DomainService.Storing.DomainServiceDBContextÕ
+ 
+¶
+õ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs< <(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5DomainService.Storing.DomainServiceDBContext.Star.get*4
+2
+%0,DomainService.Storing.DomainServiceDBContextÅ
+˛
+¶
+õ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs< <((
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"’
+¶
+õ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs< <(*
+(
+%2"System.Collections.Generic.List<T>*ƒ
+1"æ
+¶
+õ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs> >(
+implicit returnB><
+:DomainService.Storing.Repositories.DomainServiceRepository

@@ -1,0 +1,83 @@
+
+hDomainService.Storing.DomainServiceDBContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs, ,(-"0*Ó.
+0˙˜
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs. .(,P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()úô
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs. .(>@
+%1:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)˙˜
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs/ /(%P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()úô
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs/ /(7@
+%3:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)˙˜
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs0 0(1P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()úô
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs0 0(C@
+%5:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)˙˜
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs1 1(+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()úô
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs1 1(=@
+%7:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)˙˜
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs2 2(*P
+%8JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()úô
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs2 2(<@
+%9:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%8JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)˚¯
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs3 3(#Q
+%10JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()ûõ
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs3 3(5A
+%11:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*S
+Q
+%10JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)∏µ
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs4 4(%
+%12void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*0.
+,DomainService.Storing.DomainServiceDBContext*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*
+1*∂
+1"∞
+ò
+ç/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs6 6(
+implicit return:5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderB0.
+,DomainService.Storing.DomainServiceDBContext

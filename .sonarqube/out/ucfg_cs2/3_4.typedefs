@@ -1,0 +1,4 @@
+Ñ
++DomainService.Domain.Factories.SpaceFactoryobjectL
+Create(string):DomainService.Domain.Factories.SpaceFactory.Create(string)L
+SpaceFactory():DomainService.Domain.Factories.SpaceFactory.SpaceFactory()

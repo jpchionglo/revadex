@@ -1,0 +1,11 @@
+½
+%DomainService.Domain.Models.StarModel"DomainService.Domain.Models.AModelobject@
+StarModel()1DomainService.Domain.Models.StarModel.StarModel()B
+Distance.get2DomainService.Domain.Models.StarModel.Distance.getB
+Distance.set2DomainService.Domain.Models.StarModel.Distance.setH
+Temperature.get5DomainService.Domain.Models.StarModel.Temperature.getH
+Temperature.set5DomainService.Domain.Models.StarModel.Temperature.set:
+Mass.get.DomainService.Domain.Models.StarModel.Mass.get:
+Mass.set.DomainService.Domain.Models.StarModel.Mass.setH
+Description.get5DomainService.Domain.Models.StarModel.Description.getH
+Description.set5DomainService.Domain.Models.StarModel.Description.set

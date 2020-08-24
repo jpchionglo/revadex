@@ -1,0 +1,11 @@
+@model StarDex.Client.Models.StarViewModel
+
+@{
+  ViewData["Title"] = "Error";
+}
+
+<h1>Error Finding @Model.Name</h1>
+
+<section>
+  @Model.reasonForError
+</section>

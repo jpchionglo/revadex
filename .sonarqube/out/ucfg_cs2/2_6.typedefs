@@ -1,0 +1,7 @@
+ô
+DomainService.ClientMVC.Startupobjectò
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)ZDomainService.ClientMVC.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)¿
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)nDomainService.ClientMVC.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ˇ
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)çDomainService.ClientMVC.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)F
+Configuration.get1DomainService.ClientMVC.Startup.Configuration.getF
+Configuration.set1DomainService.ClientMVC.Startup.Configuration.set

@@ -1,0 +1,80 @@
+
+:DomainService.Domain.Factories.SpaceFactory.Create(string)—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs	 	("0*¹
+0Ì
+É
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs
+ (
+%0string"string.ToUpper()*
+
+sstringÜ
+Ù
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs
+ (&
+
+%1bool"string.Equals(string)*
+
+%0string*
+
+PLANET*
+1
+2*Ý
+1õò
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs ( -
+%2'DomainService.Domain.Models.PlanetModel"'DomainService.Domain.Models.PlanetModel‘
+Ž
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (
+
+%3void"5DomainService.Domain.Models.PlanetModel.PlanetModel()*/
+-
+%2'DomainService.Domain.Models.PlanetModel"Ë
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (!/
+-
+%2'DomainService.Domain.Models.PlanetModel*·
+2Ì
+É
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (
+%4string"string.ToUpper()*
+
+sstringÚ
+×
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (+
+
+%5bool"string.Equals(string)*
+
+%4string*
+STAR*
+3
+4*Ñ
+3ñî
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (+
+%6%DomainService.Domain.Models.StarModel"%DomainService.Domain.Models.StarModel‹
+ˆ
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (
+
+%7void"1DomainService.Domain.Models.StarModel.StarModel()*-
++
+%6%DomainService.Domain.Models.StarModel"É
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (-
++
+%6%DomainService.Domain.Models.StarModel*¨
+4"¢
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (
+""*µ
+5"¯
+—
+Œ/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.cs (
+implicit return:
+sstringB/-
++DomainService.Domain.Factories.SpaceFactory

@@ -1,0 +1,21 @@
+
+rDomainService.Domain.JSONConvert.Convert(System.Collections.Generic.List<DomainService.Domain.Models.PlanetModel>)å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs/ /("0*œ
+0ß
+§
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs1 1(1
+%0string"3Newtonsoft.Json.JsonConvert.SerializeObject(object)*"
+Newtonsoft.Json.JsonConvert*/
+-
+planets"System.Collections.Generic.List<T>"ü
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs1 1(2
+
+%0string*™
+1"§
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs3 3(
+implicit return:-
+planets"System.Collections.Generic.List<T>B$"
+ DomainService.Domain.JSONConvert

@@ -1,0 +1,31 @@
+
+.DomainService.ClientMVC.Program.Main(string[])‹
+€/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/Program.cs ("0*è
+0¸
+µ
+‹
+€/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder";DomainService.ClientMVC.Program.CreateHostBuilder(string[])*#"!
+DomainService.ClientMVC.Program*
+
+argsstring[]ª§
+‹
+€/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()õ
+ò
+‹
+€/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*©
+1"£
+‹
+€/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/Program.cs (	
+implicit return:
+argsstring[]B#"!
+DomainService.ClientMVC.Program

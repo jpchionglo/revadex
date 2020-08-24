@@ -1,0 +1,43 @@
+#body.bodyContainer {
+  margin-left: 10%; /* Shows as yellow in Firefox */
+  margin-right: 10%;
+  padding: 0px 10px; /* Shows as purple in Firefox */
+}
+
+#navbar {
+  margin: 0 9%;
+}
+
+#constellation-sphere.constellation {
+  width: 100%;
+}
+
+ /* Container needed to position the button. Adjust the width as needed */
+ .const-container {
+  position: relative;
+  width: 10%;
+}
+
+/* Make the image responsive */
+.const-container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.const-container .btn {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 6px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  opacity: 60%;
+}
+
+.const-container .btn:hover {
+  background-color: black;
+} 

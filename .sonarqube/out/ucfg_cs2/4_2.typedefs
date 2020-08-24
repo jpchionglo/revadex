@@ -1,0 +1,11 @@
+—
+:DomainService.Storing.Repositories.DomainServiceRepositoryobjecti
+GetStarByName(string)PDomainService.Storing.Repositories.DomainServiceRepository.GetStarByName(string)m
+GetPlanetByName(string)RDomainService.Storing.Repositories.DomainServiceRepository.GetPlanetByName(string)w
+GetSolarSystemByName(string)WDomainService.Storing.Repositories.DomainServiceRepository.GetSolarSystemByName(string){
+GetConstellationByName(string)YDomainService.Storing.Repositories.DomainServiceRepository.GetConstellationByName(string)Y
+GetAllStars()HDomainService.Storing.Repositories.DomainServiceRepository.GetAllStars()]
+GetAllPlanets()JDomainService.Storing.Repositories.DomainServiceRepository.GetAllPlanets()g
+GetAllSolarSystems()ODomainService.Storing.Repositories.DomainServiceRepository.GetAllSolarSystems()k
+GetAllConstellations()QDomainService.Storing.Repositories.DomainServiceRepository.GetAllConstellations()q
+DomainServiceRepository()TDomainService.Storing.Repositories.DomainServiceRepository.DomainServiceRepository()

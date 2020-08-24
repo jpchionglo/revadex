@@ -1,0 +1,11 @@
+
+3DomainService.Domain.Models.PlanetSolarSystJunctionobjectj
+PlanetSolarSystJunction()MDomainService.Domain.Models.PlanetSolarSystJunction.PlanetSolarSystJunction()D
+Id.get:DomainService.Domain.Models.PlanetSolarSystJunction.Id.getD
+Id.set:DomainService.Domain.Models.PlanetSolarSystJunction.Id.setL
+
+Planet.get>DomainService.Domain.Models.PlanetSolarSystJunction.Planet.getL
+
+Planet.set>DomainService.Domain.Models.PlanetSolarSystJunction.Planet.setV
+SolarSystem.getCDomainService.Domain.Models.PlanetSolarSystJunction.SolarSystem.getV
+SolarSystem.setCDomainService.Domain.Models.PlanetSolarSystJunction.SolarSystem.set

@@ -1,0 +1,1 @@
+/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/.sonarqube/out/2

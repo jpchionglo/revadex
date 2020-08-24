@@ -1,0 +1,21 @@
+
+XDomainService.Domain.JSONConvert.Convert(DomainService.Domain.Models.ConstellationModel)å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs ("0*·
+0π
+∂
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (7
+%0string"3Newtonsoft.Json.JsonConvert.SerializeObject(object)*"
+Newtonsoft.Json.JsonConvert*A
+?
+constellation.DomainService.Domain.Models.ConstellationModel"ü
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (8
+
+%0string*™
+1"§
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (
+implicit return:?
+constellation.DomainService.Domain.Models.ConstellationModelB$"
+ DomainService.Domain.JSONConvert

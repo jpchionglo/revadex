@@ -1,0 +1,16 @@
+@model StarDex.Client.Models.ConstellationViewModel
+
+@{
+    ViewData["Title"] = "Constellation";
+}
+
+<section>
+  <h1>@Model.name</h1>
+  <img src="@Model.imageURL" alt="@Model.name Image" style="height: 480px;"><br><br>
+  <span><b>Image Source:</b> @Model.imageURL</span>
+  <p>@Model.description</p>
+  <h2>Stars:</h2>
+  @foreach (StarDex.Client.Models.StarViewModel star in Model.stars) {
+    <a href="/Star/Get?name=@star.Name">@star.Name</a><br>
+  }
+</section>

@@ -1,0 +1,21 @@
+
+VDomainService.Domain.JSONConvert.Convert(DomainService.Domain.Models.SolarSystemModel)å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs ("0*›
+0µ
+≤
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (5
+%0string"3Newtonsoft.Json.JsonConvert.SerializeObject(object)*"
+Newtonsoft.Json.JsonConvert*=
+;
+solarSystem,DomainService.Domain.Models.SolarSystemModel"ü
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (6
+
+%0string*™
+1"§
+å
+Å/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/JSONConvert.cs! !(
+implicit return:;
+solarSystem,DomainService.Domain.Models.SolarSystemModelB$"
+ DomainService.Domain.JSONConvert

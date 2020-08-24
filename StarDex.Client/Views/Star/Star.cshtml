@@ -1,0 +1,35 @@
+@model StarDex.Client.Models.StarViewModel
+
+@{
+  ViewData["Title"] = @Model.Name;
+}
+
+<h1>@Model.Name</h1>
+
+<section>
+  <img src="@Model.imageURL" alt="Image of @Model.Name" style="height: 480px;"><br><br>
+  <span><b>Image Source:</b> @Model.imageURL</span><br>
+  <span><b>Distance from Earth:</b>
+    @if (Model.Distance >= 0) {
+      <span>@Model.Distance light years</span>
+    } else {
+      <span>Unknown</span>
+    }
+  </span><br>
+  <span><b>Temperature:</b>
+    @if (Model.Temperature >= 0) {
+      <span>@Model.Temperature°K</span>
+    } else {
+      <span>Unknown</span>
+    }
+  </span><br>
+  <span><b>Mass:</b> 
+    @if (Model.Mass >= 0) {
+      <span>@Model.Mass M☉ (solar mass)</span>
+    } else {
+      <span>Unknown</span>
+    }
+  </span><br>
+  <span>@Model.Description</span>
+  <span></span>
+</section>

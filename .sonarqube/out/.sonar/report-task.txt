@@ -1,0 +1,7 @@
+organization=jpchionglo
+projectKey=revadex
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.11122
+dashboardUrl=https://sonarcloud.io/dashboard?id=revadex
+ceTaskId=AXQif26FllJUqpPl0SuF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXQif26FllJUqpPl0SuF
