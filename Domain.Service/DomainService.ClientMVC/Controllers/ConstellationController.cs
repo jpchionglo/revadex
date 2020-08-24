@@ -31,6 +31,7 @@ namespace DomainService.ClientMVC.Controllers
 
     }
 
+
     [HttpGet]
     public IActionResult Get(){
 
